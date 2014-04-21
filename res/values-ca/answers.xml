@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="answers">
+        <item>Podria passar</item>
+        <item>Decididament, serà cert</item>
+        <item>Totes les senyals m\'indiquen que SÍ</item>
+        <item>Les estrelles no estan alineades</item>
+        <item>La meva resposta és que NO</item>
+        <item>És dubtós</item>
+        <item>Millor no t\'ho dic ara</item>
+        <item>Concentra\'t i torna a preguntar</item>
+        <item>Sóc incapaç de respondre\'t ara</item>
+        <item>És difícil de predir</item>
+        <item>No te la faràs</item>
+    </string-array>
+
+</resources>			

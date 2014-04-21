@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="answers">
+        <item>Puede que ocurra</item>
+        <item>Decididamente, ocurrirá</item>
+        <item>Todas las señales indican que SÍ</item>
+        <item>Las estrellas no están alineadas</item>
+        <item>Mi respuesta es NO</item>
+        <item>Es dudoso</item>
+        <item>Mejor no te lo digo ahora</item>
+        <item>Concéntrate y pregunta de nuevo</item>
+        <item>Incapaz de responderte ahora</item>
+        <item>Es difícil de decir</item>
+    </string-array>
+
+</resources>			
